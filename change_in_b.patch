@@ -1,0 +1,8 @@
+diff --git a/b b/b
+index 2acbcb7..83a20cc 100644
+--- a/b
++++ b/b
+@@ -1,2 +1,3 @@
+ hehehehe
+ This is second commit
++This is changed
